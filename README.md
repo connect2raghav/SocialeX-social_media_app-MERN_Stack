@@ -2,7 +2,7 @@
 
 A completely redesigned social media application with a sleek dark theme, built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
-## 🚀 Features
+## Features
 
 ### Core Features
 - **User Authentication**: Secure registration and login with JWT tokens
@@ -19,7 +19,7 @@ A completely redesigned social media application with a sleek dark theme, built 
 - **Dark Mode Toggle**: Easy theme switching in the navbar
 - **Mood Status Feature**: Express your current mood with emojis
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks
@@ -42,7 +42,7 @@ A completely redesigned social media application with a sleek dark theme, built 
 - **MongoDB Atlas** - Cloud-hosted NoSQL database
 - **Collections**: Users, Posts, Chats, Stories
 
-## 📱 UI Screenshots
+## UI Screenshots
 
 ### Landing Page
 ![Landing Page](./screenshots/landing-page.png)
@@ -60,15 +60,11 @@ A completely redesigned social media application with a sleek dark theme, built 
 ![Chat Interface](./screenshots/chat-interface.png)
 *Real-time chat with other users*
 
-### Dark Mode Toggle
-![Dark Mode](./screenshots/dark-mode.png)
-*Easy theme switching in the navbar*
-
-### Mood Status Feature
-![Mood Status](./screenshots/mood-status.png)
+### Backend end MongoDB
+![mongoDB](./screenshots/mongoDB.png)
 *Set your current mood in profile settings*
 
-## 🗄️ Database Schema
+## Database Schema
 
 ### MongoDB Collections
 
@@ -105,7 +101,7 @@ A completely redesigned social media application with a sleek dark theme, built 
 ![MongoDB Data](./screenshots/mongodb-data.png)
 *MongoDB Atlas dashboard showing collections and data*
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -152,7 +148,7 @@ A completely redesigned social media application with a sleek dark theme, built 
 7. **Access the app**
    - Open [http://localhost:3000](http://localhost:3000)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 social-media-app/
@@ -172,7 +168,7 @@ social-media-app/
 └── README.md
 ```
 
-## 🔧 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /register` - User registration
@@ -186,7 +182,7 @@ social-media-app/
 - `GET /fetchUserName` - Get user details
 - `GET /fetchUserImg` - Get user profile image
 
-## 🌟 Key Features Explained
+## Key Features Explained
 
 ### Dark Mode Implementation
 - Uses CSS custom properties (variables) for theming
@@ -205,7 +201,7 @@ social-media-app/
 - Live updates for likes and follows
 - Real-time notifications
 
-## 🎨 Design System
+## Design System
 
 ### Color Palette
 - **Primary**: #8B5CF6 (Purple)
@@ -220,21 +216,21 @@ social-media-app/
 - Responsive text sizing
 - High contrast ratios for accessibility
 
-## 🔒 Security Features
+## Security Features
 
 - **Password Hashing**: bcrypt for secure password storage
 - **JWT Authentication**: Token-based authentication
 - **Input Validation**: Server-side validation
 - **CORS Protection**: Configured for cross-origin requests
 
-## 📱 Responsive Design
+## Responsive Design
 
 - Mobile-first approach
 - Bootstrap grid system
 - Custom breakpoints for tablets and desktops
 - Touch-friendly interface elements
 
-## 🚀 Deployment
+## Deployment
 
 ### Frontend Deployment
 - Build the app: `npm run build`
@@ -245,7 +241,7 @@ social-media-app/
 - Set environment variables for production
 - Configure MongoDB Atlas for production
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -253,11 +249,11 @@ social-media-app/
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Original design inspiration
 - MERN stack community
@@ -265,4 +261,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ using MERN Stack**"# SocialeX-social_media_app-MERN_Stack" 
+**Built with ❤️ using MERN Stack**
